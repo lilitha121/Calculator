@@ -2,6 +2,8 @@ body{
     display: grid;
     place-items: center;
     padding-top: 10%;
+    background-image: linear-gradient(black,yellow, blue);
+
 }
 
 .focusedInput {
@@ -14,7 +16,7 @@ body{
 
 .bg{
     background-color: black;
-    
+   
 }
 
 h1 {
